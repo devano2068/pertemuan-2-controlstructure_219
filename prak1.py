@@ -9,3 +9,5 @@ elif percentage >= 80:
 elif percentage >= 70:
     print("Good performance")
 
+elif percentage >= 60:
+    print("Average performance")
